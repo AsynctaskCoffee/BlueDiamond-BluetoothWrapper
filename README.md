@@ -1,4 +1,3 @@
-# BlueDiamond
 ## BluetoothWrapper for HC Bluetooth Modules
 
 ```java
